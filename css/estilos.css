@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+}
+.azul{
+    width: 500px;
+    height: 450px;
+    background-color: blue;
+    padding-left: 40px;
+    padding-top: 50px;
+    padding-right: 120px;
+    padding-bottom: 90px;
+}
+.amarillo{
+    width: 500px;
+    height: 400px;
+    background-color: yellow;
+    padding-left: 30px;
+    padding-right: 60px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.verde{
+    width: 500px;
+    height: 200px;
+    background-color: greenyellow;
+    padding-bottom: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.oscuro{
+    width: 450px;
+    height: 200px;
+    background-color: green;
+    padding-bottom: 90px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.rojo{
+    width: 430px;
+    height: 200px;
+    background-color: red;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.plomo{
+    width: 400px;
+    height: 120px;
+    background-color: aliceblue;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+
+}
+.negro{
+    width: 300px;
+    height: 110px;
+    background-color: black;
+    padding-right: 70px;
+}
+p{
+    color: red;
+}
